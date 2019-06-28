@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-  [Klik hier om mijn versie van Star Wars Crawl te zien]())
-=======
+
 # Star-Wars_Crawl
 
 #### Doelstellingen
@@ -27,11 +25,4 @@
 * Voeg het BeCode-logo toe in plaats van Star Wars
 * Voeg muziek toe thanks to the <audio> tag
   
-  
-  
-  
-<<<<<<< HEAD
->>>>>>> 4d27603014da23d9efec9a54643375c0238df15c
-=======
-  
->>>>>>> d0ded7651c34fd5f740961f5f367390455f2c003
+
